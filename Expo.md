@@ -11,6 +11,7 @@
  * Grafos
  * Calculo de  tiempo
  * Tiempo de espera
+ * Tipos de caminos
 
 ![](https://github.com/migueshock/Mi-CVU/blob/master/yo.jpg) 
 
@@ -40,4 +41,43 @@ Nos daremos también a la tarea de investigar los tiempos de preparación de alg
 Consideraremos también los tiempos estimados de espera de acuerdo a la hora en que ingresemos a la cafetería ya que existen momentos en el día en que contamos con un cuello de botella en mostrador.
 
 ---
+
+### Tipos de caminos
+
+#### Camino Directo
+
+- L>C>L
+- B>C>B
+- A>C>A
+- F>C>F
+- V>C>V
+- U>C>U
+- G>C>G
+- Q>C>Q
+- D>C>D
+- M>C>M
+- X>C>X
+- I>C>I
+- H>C>H
+- J>C>J
+
+#### Camino Random
+
+- L>C>B
+- B>C>A
+- A>C>F
+- F>C>V
+- V>C>U
+- U>C>G
+- G>C>Q
+- Q>C>D
+- D>C>M
+- M>C>X
+- X>C>I
+- I>C>H
+- H>C>J
+- J>C>L
+
+
+
 
